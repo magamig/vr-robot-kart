@@ -6,7 +6,7 @@ Prototype of a robot car connected to a VR headset and drivable through hand mov
 
 ## Demo
 
-[![demo](https://j.gifs.com/5QmW98.gif)](https://youtu.be/HzojQ0dXamQ?t=10)
+[![demo](misc/demo.gif)](https://youtu.be/HzojQ0dXamQ?t=10)
 
 ## Running
 
