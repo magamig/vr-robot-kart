@@ -1,4 +1,4 @@
-[<img src="misc/logo.png" height="80px"/>]
+<img src="misc/logo.png" height="80px"/>
 
 # VR Robot Kart with Hand Tracking
 
