@@ -1,5 +1,3 @@
-![logo](misc/logo.png)
-
 # VR Robot Kart with Hand Tracking
 
 Prototype of a robot car connected to a VR headset and drivable through hand movements captured by a leap motion.
